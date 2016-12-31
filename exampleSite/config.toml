@@ -1,0 +1,11 @@
+baseurl         = "/"
+theme           = "remark-twemoji"
+languageCode    = "en-us"
+title           = "Site Title | Hugo Remark-Twemoji"
+canonifyurls    = true
+
+[params]
+  googleAnalytics = ""
+  name            = "Eueung Mulyana"
+  description     = "Demo slides for Hugo Remark Twemoji"
+  custom_css      = ["custom.css"]
